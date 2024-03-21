@@ -1,4 +1,4 @@
 venv/
-documentation.txt
-resources_guide.txt
+docs/
 .env
+__pycache__
