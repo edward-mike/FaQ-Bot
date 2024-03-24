@@ -1,6 +1,6 @@
 from scrap import extract_contents_for
 
-ALLOW_SCRAPPING = True # Toggle to enable web scrapping. 
+ALLOW_SCRAPPING = False # Toggle to enable web scrapping. 
 
 
 def main():
